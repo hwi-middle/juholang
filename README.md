@@ -3,7 +3,10 @@
 > 멋지다, 주호야!
 
 ## 버전
-현재 주호랭의 최신 버전은 `WIP`입니다.
+현재 주호랭의 최신 버전은 `0.0.1`입니다.
+
+## 구현체
+- Python: [Python 구현체](https://github.com/hwi-middle/juholang/tree/main/juholang_python)
 
 ## 문법
 ### 기본
